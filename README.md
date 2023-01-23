@@ -6,7 +6,7 @@ Welcome to the JS Octapad project! This project aim was to build a fully operati
 
 An Octapad is an electronic percussion instrument which has eight rubber pads on a rectangular surface. These rubber pads produce sounds when they are struck on.
 
-In this case, as we wanted to reproduce a complete drum kit we have added an extra pad. That means we have one more sound to be played to complete our drums.
+In this case, as we wanted to reproduce a complete drum kit, we have added an extra pad. That means we have one more sound to be played to complete our drums.
 
 ## 🌐 Link to the App.
 
