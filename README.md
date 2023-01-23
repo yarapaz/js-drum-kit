@@ -10,7 +10,7 @@ In this case, as we wanted to reproduce a complete drum kit, we have added an ex
 
 ## 🌐 Link to the App.
 
-Should you wish to take a look to the deployed app, .[feel free to visit it by clicking here]. (https://yarapaz.github.io/js-drum-kit/).
+Should you wish to take a look to the deployed app, [feel free to visit the link here](https://yarapaz.github.io/js-drum-kit/)
 
 ## 🗂️ Content
 
@@ -94,9 +94,9 @@ Once you have installed the dependencies, you are ready to run the app with `npm
 
 > 👉 Open http://localhost:3000 to view the app in the browser
 
-Once inside you will see the Octapad on full screen. In order to play it you just need to press the keys showed on the Octapad's pads on your keyboard to hear the sound playing and a little animation shows up to check you pressed that key.
+Once inside you will see the Octapad on full screen. In order to play it you just need to press the keys showed on the Octapad's pads on your keyboard to hear the sound they represent (written down below) and to see a little animation showing up to confirm you pressed that key (See picture down below).
 
-Enjoy and have fun!
+And that's all! Enjoy and have fun!
 
 ![Js Octopad execution](./docs/assets/images/js-octapad-playing-preview.jpg)
 
