@@ -10,7 +10,7 @@ In this case, as we wanted to reproduce a complete drum kit we have added an ext
 
 ## 🌐 Link to the App.
 
-Should you wish to take a look to the deployed app, [feel free to visit it by clicking here] (https://yarapaz.github.io/js-drum-kit/).
+Should you wish to take a look to the deployed app, .[feel free to visit it by clicking here]. (https://yarapaz.github.io/js-drum-kit/).
 
 ## 🗂️ Content
 
@@ -79,9 +79,10 @@ To start using this project clone this repo to a new directory.
 
 ---
 
-You have to go to server and run npm install in order to install the necesary dependencies.
+You have to go to the repositories folder and run npm install in order to install the necesary dependencies.
 
 > ```console
+> $ cd js-drum-kit
 > $ npm install
 > ```
 
@@ -93,7 +94,7 @@ Once you have installed the dependencies, you are ready to run the app with `npm
 
 > 👉 Open http://localhost:3000 to view the app in the browser
 
-Once inside you will see the Octapad on full screen. In order to play it you just need to press the keys showed on the Octapad's pads on your keyboard to hear the sound playing a little animation appear to check you pressed that key.
+Once inside you will see the Octapad on full screen. In order to play it you just need to press the keys showed on the Octapad's pads on your keyboard to hear the sound playing and a little animation shows up to check you pressed that key.
 
 Enjoy and have fun!
 
